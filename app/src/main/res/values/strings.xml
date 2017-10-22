@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlphaView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="context">由Zombie Stuido为即将在2017年举办的国际野生生物保护电影展所制作的CGI动画-影片短短3分钟</string>
+    <string name="introduce">由Zombie Stuido为即将在2017年举办的国际野生生物保护电影展所制作的CGI动画-影片短短3分钟,由Zombie Stuido为即将在2017年举办的国际野生生物保护电影展所制作的CGI动画-影片短短3分钟,由Zombie Stuido为即将在2017年举办的国际野生生物保护电影展所制作的CGI动画-影片短短3分钟,由Zombie Stuido为即将在2017年举办的国际野生生物保护电影展所制作的CGI动画-影片短短3分钟</string>
+    <string name="resume">简介：你是否曾经去过草原？你眼中或想象中的草原是什么模样？ 很多时候，我们还没有机会感受的，已经有人替我们身临其境。 LOFTER摄影师们镜头下的草原，或许能让你领略到属于草原的声色光影，感受不一样的草原人文故事。</string>
+
+</resources>
